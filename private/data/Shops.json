@@ -6134,7 +6134,7 @@
       }
     }
   },
-  "name": "<blank site>",
+  "name": "AMITA SOLAR",
   "taxes": [{
     "taxesIncluded": null,
     "taxShipping": null,
@@ -6157,15 +6157,15 @@
     "label": "Kilograms"
   }],
   "addressBook": [{
-    "company": "<your company>",
-    "fullName": "<name>",
-    "address1": "",
-    "address2": "",
-    "city": "Santa Monica",
+    "company": "Amita Solar",
+    "fullName": "Philip Tran",
+    "address1": "929 E EL CAMINO REAL",
+    "address2": "D115",
+    "city": "Sunnyvale",
     "region": "CA",
-    "postal": "90401",
+    "postal": "94087",
     "country": "US",
-    "phone": "8885551212",
+    "phone": "4083060042",
     "isCommercial": true,
     "isShippingDefault": true,
     "isBillingDefault": true
