@@ -1,22 +1,22 @@
 {
-  "name": "reaction",
-  "description": "Reaction is a modern reactive, real-time event driven ecommerce platform.",
-  "version": "0.18.1",
+  "name": "amitasolar*com",
+  "description": "amitasolar*com is a modern reactive, real-time event driven ecommerce platform for solar retails.",
+  "version": "0.0.1",
   "main": "main.js",
   "directories": {
     "test": "tests"
   },
-  "homepage": "https://github.com/reactioncommerce/reaction",
-  "url": "https://github.com/reactioncommerce/reaction",
-  "email": "reaction@reactioncommerce.com",
+  "homepage": "https://github.com/PhilipTranP/amitasolar-com",
+  "url": "https://github.com/PhilipTranP/amitasolar-com",
+  "email": "amitasolar@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactioncommerce/reaction.git"
+    "url": "https://github.com/PhilipTranP/amitasolar-com.git"
   },
-  "author": "Reaction Commerce <hello@reactioncommerce.com>",
-  "license": "GPL-3.0",
+  "author": "PhilipTranP <PhilipTranP@amitasolar.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/reaction/issues"
+    "url": "https://github.com/PhilipTranP/amitasolar-com/issues"
   },
   "dependencies": {
     "@reactioncommerce/authorize-net": "^1.0.7",
